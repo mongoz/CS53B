@@ -1,9 +1,11 @@
 //
-// ViewController.swift
+//  ViewController.swift
+//  TipCalculator
 //
-//  Created by Per on 3/1/17.
-//  Copyright © 2017 Per. All rights reserved.
+//  Created by per on 3/29/17.
+//  Copyright © 2017 per. All rights reserved.
 //
+
 
 import UIKit
 
